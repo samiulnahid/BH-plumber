@@ -1,0 +1,17 @@
+:root {
+  font-family: "DM Sans", sans-serif;
+  color: #17224d;
+  background: #fff;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  --primary: #1e60aa;
+  --primary-dark: #174e8e;
+  --orange: #ff4917;
+  --ink: #17224d;
+  --muted: #647083;
+  --light: #edf1fc;
+  --pale: #f6f8fc;
+  --line: #e4e9f1;
+  --white: #fff;
+  --heading-font: "Manrope", sans-serif;
+}
